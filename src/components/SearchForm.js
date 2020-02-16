@@ -27,7 +27,7 @@ export class SearchForm extends Component {
                     <div className="control">
                         <input className="input" 
                         onChange={this._handleChange}
-                        type="text" placeholder="Find a repository"/>
+                        type="text" placeholder="Find a film"/>
                     </div>
                     <div className="control">
                         <button className="button is-info">
